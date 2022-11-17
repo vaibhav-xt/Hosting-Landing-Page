@@ -6,6 +6,7 @@
     box-sizing: border-box;
     font-family: 'Inconsolata', monospace;
     transition: 0.5s all ease;
+    scroll-behavior: smooth;
 }
 
 p, span{
