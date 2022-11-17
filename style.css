@@ -330,7 +330,6 @@ main{
 .book-now{
     background: url(Images/footer-bg.svg);
     color: white;
-    padding: 4rem 0 4rem 0;
 }
 
 .book-block{
@@ -389,7 +388,6 @@ footer{
 
 .footer-container .info{
     max-width: 350px;
-    /* height: 14rem; */
 }
 
 .info img{
