@@ -81,7 +81,6 @@ main{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-height: 60vh;
     margin: 5rem 0 5rem 0;
 }
 
@@ -578,6 +577,10 @@ footer{
     .info, .social-media, .footer-box{
         margin-top: 2rem;
         height: auto;
+    }
+
+    .box-flex{
+        flex-direction: column;
     }
 }
 
